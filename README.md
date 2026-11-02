@@ -39,7 +39,7 @@ Python-Port-Scanner/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/YOUR-USERNAME/Python-Port-Scanner.git
+git clone https://github.com/kawdeyash/Python-Port-Scanner.git
 cd Python-Port-Scanner
 ```
 
